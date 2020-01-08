@@ -1,1 +1,2 @@
-Lecture 6
+# GR5026_HW6
+plot
